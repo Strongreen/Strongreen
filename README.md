@@ -53,7 +53,7 @@ Olá, me chamo **Hérika Ströngreen**, moro atualmente em Belo Horizonte, Brasi
 </p>
 
 <p>
-    <img align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" alt="Hérika-Ströngreen" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hérika-Ströngreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
 </p>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
