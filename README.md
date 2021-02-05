@@ -1,4 +1,4 @@
-## Seja bem vinda e bem vindo!
+**Seja bem vinda e bem vindo!**
 
 <p align="left">
   Olá, me chamo <b>Hérika Ströngreen</b>, moro atualmente em Belo Horizonte/MG-BR, estou me capacitando para ser uma <b>Desenvolvedora Full-Stack Júnior</b> e atualmente produzo conteúdos para o <b>Youtube</b> e <b>Instagram</b>, além de fazer palestras em alguns eventos da área. 🚀
