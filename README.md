@@ -11,7 +11,7 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/youtube.png" width="48px" height="48px">
+  <img src="https://ibb.co/G5bVRfC" width="48px" height="48px">
 </a>
 
 <br />
