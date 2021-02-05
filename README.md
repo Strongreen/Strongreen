@@ -24,10 +24,10 @@ Olá, me chamo **Hérika Ströngreen**, moro atualmente em Belo Horizonte, Brasi
 
 - 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
 - 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
-- 🤔 Meus hobbies são gravação de conteúdos, leitura de livros e jogar League of Legends;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para herika_h@hotmail.com para me encontrar.
+- 🤔 Meus hobbies são gravação de conteúdos, ler de livros e jogar League of Legends;
+- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+- 📫 Se quiser pode enviar um email para contato@strongreen.com.
 - 📝 Veja meu <a href="https://gitconnected.com/strongreen/resume" target="_blank">Currículo</a> para mais informações.
 
 
@@ -53,7 +53,7 @@ Olá, me chamo **Hérika Ströngreen**, moro atualmente em Belo Horizonte, Brasi
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
+    <img align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" alt="Hérika-Ströngreen" />
 </p>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
