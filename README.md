@@ -1,4 +1,6 @@
+<p align="left">
 Olá, me chamo **Hérika Ströngreen**, moro atualmente em Belo Horizonte/MG-BR, estou me capacitando para ser uma **Desenvolvedora Full-Stack Júnior** e atualmente produzo conteúdos para o **Youtube** e **Instagram**, além de fazer palestras em alguns eventos da área. 🚀
+</p>
 
 <p align="right">
 <a href="https://github.com/strongreen" target="_blank">
