@@ -1,30 +1,28 @@
 **Seja bem vinda e bem vindo!**
 
 <p align="left">
-  Olá, me chamo <b>Hérika Ströngreen</b>, moro atualmente em Belo Horizonte/MG-BR, estou me capacitando para ser uma <b>Desenvolvedora Full-Stack Júnior</b> e atualmente produzo conteúdos para o <b>Youtube</b> e <b>Instagram</b>, além de fazer palestras em alguns eventos da área. 🚀
+  <p>
+    Olá, me chamo <b>Hérika Ströngreen</b>, moro atualmente em Belo Horizonte/MG-BR, estou me capacitando para ser uma <b>Desenvolvedora Full-Stack Júnior</b> e        atualmente produzo conteúdos para o <b>Youtube</b> e <b>Instagram</b>, além de fazer palestras em alguns eventos da área. 🚀
+  </p>
 </p>
 
-**Minhas redes**
-
-<p align="right">
-<a href="https://github.com/strongreen" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/herika.strongreen" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-  <img src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
-<br />
-<br />
-  </p>
+  <a href="https://github.com/strongreen" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.instagram.com/strongreen/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.facebook.com/herika.strongreen" target="_blank">
+    <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
+  <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
+    <img src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
+  </a>
+  <br />
+  <br />
 
 
 **Meus interesses pessoais:**
