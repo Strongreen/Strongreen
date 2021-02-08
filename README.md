@@ -35,7 +35,7 @@
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
-- 📝 Veja meu <a href="https://gitconnected.com/strongreen/resume" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1b54CIEvnDLr4jFnbtdg4pWVsSN6RHA8f/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 
 **Linguagens e ferramentas:**  
