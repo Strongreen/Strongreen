@@ -11,9 +11,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 <p align="left" >
-  Atualmente moro em Belo Horizonte/MG-BR.
-</p>
-<p align="left" >
+  Atualmente moro em Belo Horizonte/MG-BR.<br />
   Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
 </p>
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
