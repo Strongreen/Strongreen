@@ -20,9 +20,6 @@ Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Sta
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 Além disso produzo conteúdos de tecnologia para as plataformas:
-<a align="right" href="https://www.facebook.com/herika.strongreen" target="_blank">
-  <img align="right" src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a>
 <ul>
   <li>Youtube </li>
   <li>Instagram </li>
