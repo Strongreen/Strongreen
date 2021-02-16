@@ -19,15 +19,15 @@
 </a>
 <p align="left" >
   Além disso produzo conteúdos de tecnologia para as plataformas:
-  <ul>
-    <li>Youtube </li>
-    <li>Instagram </li>
-  </ul>
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
+  <ul>
+    <li>Youtube </li>
+    <li>Instagram </li>
+  </ul>
   e faço também palestras em eventos da área de TI. 🚀
 </p>
 <br />
