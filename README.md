@@ -3,21 +3,21 @@
 
 <a align="right" href="https://github.com/strongreen" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
+</a>
 Hey :)  <br />
 Me chamo
 Hérika Ströngreen</b>. <br />
 <a align="right" href="https://www.instagram.com/strongreen/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
+</a>
 Atualmente moro em Belo Horizonte/MG-BR.
 <a align="right" href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a><br />
+</a>
 Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>. <br />
 <a align="right" href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a><br />
+</a>
 Além disso produzo conteúdos de tecnologia para as plataformas:
 <ul>
   <li>Youtube </li>
