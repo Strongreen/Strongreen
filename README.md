@@ -1,4 +1,4 @@
-##Seja bem vinda e bem vindo!
+## Seja bem vinda e bem vindo!
 
 <a href="https://github.com/strongreen" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -25,13 +25,13 @@ Me chamo <b> Hérika Ströngreen</b>.
 Atualmente moro em Belo Horizonte/MG-BR.<br />
 Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
 </p>
-
-<p align="left" >
-Além disso produzo conteúdos de tecnologia para as plataformas:
-</p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<p align="left" >
+Além disso produzo conteúdos de tecnologia para as plataformas:
+</p>
+
 <p align="left" >
 <ul>
   <li>Youtube </li>
