@@ -16,13 +16,10 @@ Atualmente moro em Belo Horizonte/MG-BR.
   <img align="right" src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a>
 Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>. <br />
-
 <a align="right" href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
 Além disso produzo conteúdos de tecnologia para as plataformas:
-
 <a align="right" href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
