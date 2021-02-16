@@ -29,6 +29,7 @@ Além disso produzo conteúdos de tecnologia para as plataformas:
  </ul>
 e faço também palestras em eventos da área de TI. 🚀
   <br />
+  <br />
   
 **Meus interesses pessoais:**
 
