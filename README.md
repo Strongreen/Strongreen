@@ -34,7 +34,7 @@ Além disso produzo conteúdos de tecnologia para as plataformas:
 <p align="left" >
 Já palestrei em eventos da área de TI. 🚀
 </p>
-<br />
+
 
 **Meus interesses pessoais:**
 
@@ -72,8 +72,7 @@ Já palestrei em eventos da área de TI. 🚀
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="Docker" width="40" height="40" />
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 </p>
 
 <p>
