@@ -29,6 +29,7 @@ Além disso produzo conteúdos de tecnologia para as plataformas:
  </ul>
 e faço também palestras em eventos da área de TI. 🚀
   <br />
+  
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
