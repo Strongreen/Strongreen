@@ -1,37 +1,34 @@
 **Seja bem vinda e bem vindo!**
 
-
 <a href="https://github.com/strongreen" target="_blank">
-<img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Hey :)  <br />
-Me chamo
-Hérika Ströngreen</b>. <br />
+  Hey :)  <br />
+  Me chamo Hérika Ströngreen</b>.
 </p>
-
 <a href="https://www.instagram.com/strongreen/" target="_blank">
-<img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 <p align="left" >
 Atualmente moro em Belo Horizonte/MG-BR.
 </p>
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-<img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
+  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>. <br />
+  Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
-<img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-  <p align="left" >
-Além disso produzo conteúdos de tecnologia para as plataformas:
-<ul>
-<li>Youtube </li>
-<li>Instagram </li>
-</ul>
-e faço também palestras em eventos da área de TI. 🚀
+<p align="left" >
+  Além disso produzo conteúdos de tecnologia para as plataformas:
+  <ul>
+    <li>Youtube </li>
+    <li>Instagram </li>
+  </ul>
+  e faço também palestras em eventos da área de TI. 🚀
 </p>
 <br />
 <br />
