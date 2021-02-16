@@ -10,7 +10,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 <p align="left" >
-  Me chamo Hérika Ströngreen</b>.
+  Me chamo <b> Hérika Ströngreen</b>.
 </p>
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
