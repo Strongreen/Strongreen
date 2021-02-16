@@ -46,10 +46,10 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
-- 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
+- 👩‍💻 Estou estudando backend com **MySQL**, **Express** e utilizando o framework **Node.js**;
 - 🤔 Meus hobbies são gravação de conteúdos, ler de livros e jogar League of Legends;
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 👾 Estudo sobre hacking e Lockpick nas horas vagas;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
