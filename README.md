@@ -14,7 +14,7 @@
     e faço também palestras em eventos da área de TI. 🚀
   </p>
 </p>
-
+<p align="right">
   <a href="https://github.com/strongreen" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
   </a> 
@@ -32,6 +32,7 @@
   </a>
   <br />
   <br />
+  </p>
 
 
 **Meus interesses pessoais:**
