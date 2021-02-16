@@ -10,9 +10,7 @@ Hérika Ströngreen</b>. <br />
 <a align="right" href="https://www.instagram.com/strongreen/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
-
 Atualmente moro em Belo Horizonte/MG-BR.
- <br />
 <a align="right" href="https://www.facebook.com/herika.strongreen" target="_blank">
   <img align="right" src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a>
@@ -21,7 +19,6 @@ Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Sta
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 Além disso produzo conteúdos de tecnologia para as plataformas:
- <br />
 <a align="right" href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
@@ -30,10 +27,7 @@ Além disso produzo conteúdos de tecnologia para as plataformas:
   <li>Instagram </li>
  </ul>
 e faço também palestras em eventos da área de TI. 🚀
-
   <br />
-  <br />
-
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
