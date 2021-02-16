@@ -17,13 +17,11 @@
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
-<p align="left" >
-  Além disso produzo conteúdos de tecnologia para as plataformas:
-</p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
+  Além disso produzo conteúdos de tecnologia para as plataformas:
   <ul>
     <li>Youtube </li>
     <li>Instagram </li>
