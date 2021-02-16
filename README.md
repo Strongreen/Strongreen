@@ -3,14 +3,15 @@
 <p align="left">
   <p>
     Hey :) <br/>
-    Me chamo <b>Hérika Ströngreen</b>.  <br/>
-    Atualmente em Belo Horizonte/MG-BR e estou me capacitando pela @betrybe para tornar uma <b>Desenvolvedora Full-Stack </b>. <br/>
-    Além disso também produzo conteúdos para as plataformas: 
+    Me chamo <b>Hérika Ströngreen</b>. <br/>
+    Atualmente moro em Belo Horizonte/MG-BR.<br/>
+    Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>. <br/>
+    Além disso produzo conteúdos de tecnologia para as plataformas: 
     <ul>
       <li>Youtube </li>
       <li>Instagram </li>
      </ul>
-    e faço palestras em alguns eventos da área de TI. 🚀
+    e faço também palestras em eventos da área de TI. 🚀
   </p>
 </p>
 
