@@ -51,7 +51,7 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 - 👾 Meus hobbies são: 
   - Estudar sobre hacking e Lockpick; 
   - Gravar conteúdos;
-  - Ler de livros;
+  - Ler livros;
   - Jogar League of Legends;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
