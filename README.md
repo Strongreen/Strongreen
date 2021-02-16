@@ -1,29 +1,29 @@
 **Seja bem vinda e bem vindo!**
 
 
-<a href="https://github.com/strongreen" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+<a align="right" href="https://github.com/strongreen" target="_blank">
+  <img align="right"  src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 Hey :)  <br />
 Me chamo
 Hérika Ströngreen</b>. <br />
-<a href="https://www.instagram.com/strongreen/" target="_blank">
+<a align="right" href="https://www.instagram.com/strongreen/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 
 Atualmente moro em Belo Horizonte/MG-BR.
-<a href="https://www.facebook.com/herika.strongreen" target="_blank">
+<a align="right" href="https://www.facebook.com/herika.strongreen" target="_blank">
   <img align="right" src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a>
 Estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>. <br />
 
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a align="right" href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
 Além disso produzo conteúdos de tecnologia para as plataformas:
 
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
+<a align="right" href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
