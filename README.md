@@ -1,22 +1,24 @@
 **Seja bem vinda e bem vindo!**
 
 <a href="https://github.com/strongreen" target="_blank">
-<img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a>
+<br />
+<a href="https://www.instagram.com/strongreen/" target="_blank">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 <p align="left" >
 Hey :)
 </p>
 
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-<img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
+
 
 <p align="left" >
 Me chamo <b> Hérika Ströngreen</b>.
 </p>
 
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-<img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
+  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
 <p align="left" >
