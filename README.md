@@ -46,7 +46,8 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou estudando backend com **MySQL**, **Express** e utilizando o framework **Node.js**;
+- 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
+- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre hacking e Lockpick; 
@@ -89,7 +90,10 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg" alt="perl" width="40" height="40" />
 </p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
