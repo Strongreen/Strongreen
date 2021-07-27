@@ -16,8 +16,8 @@ Me chamo <b> Hérika Ströngreen</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Belo Horizonte/MG-BR.<br />
-E estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
+Atualmente moro em Congonhas/MG-BR.<br />
+Estou concluíndo o curso na @betrybe e o próximo passo na minha carreira é seguir para carreira de <b>Segurança da informação</b>.
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -29,6 +29,8 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 <ul>
   <li>Youtube </li>
   <li>Instagram </li>
+  <li><a href="https://midianinja.org/author/herikastrongreen/">Midia Ninja </a> </li>
+  <li><a href="https://pingback.com/strongreen">Ping Back</a></li>
 </ul>
 </p>
 <p align="left" >
@@ -46,8 +48,14 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
+- 👩‍💻 Estou cconluído o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
+- Trabalhando na *@kabum* como desenvolvedora Full Stack, utilizando as stacks:
+  - Perl
+  - Python
+  - Angular JS
+  - Typescript
+  - ReactJS
+  - NodeJS
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre hacking e Lockpick; 
