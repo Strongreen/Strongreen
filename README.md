@@ -48,7 +48,7 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou cconluído o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
+- 👩‍💻 Estou concluindo o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack, utilizando as stacks:
   - Perl
   - Python
