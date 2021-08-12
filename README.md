@@ -38,7 +38,9 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
   <ul>
   <li> Arduino Day </li>
   <li> LatinoWare </li>
-</ul>
+  <li> Portal Embarcados </li>
+  <li> Programador real </li>
+  </ul>
 </p>
 </p>
 
