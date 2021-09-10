@@ -17,8 +17,8 @@ Me chamo <b> Hérika Ströngreen</b>.
 </a>
 <p align="left" >
 Atualmente moro em Congonhas/MG-BR.<br />
-Concluí o curso na @betrybe e iniciei a transição da minha carreira para a àrea de <b>Segurança da informação <br> 
-Atualmente estou fazendo o curso na @4linux de Pentest: Técnicas de Intrusão em Redes Corporativas </b>.
+Concluí o curso na @betrybe e iniciei a transição da minha carreira para a àrea de <b>Segurança da informação </b>. <br> 
+Atualmente estou fazendo o curso na @4linux de Pentest: Técnicas de Intrusão em Redes Corporativas 
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
