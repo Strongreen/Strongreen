@@ -61,7 +61,8 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
   - NodeJS
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking e Lockpick; 
+  - Estudar sobre hacking;
+  - Andar de Longboard; 
   - Gravar conteúdos;
   - Ler livros;
   - Jogar League of Legends;
