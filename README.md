@@ -16,20 +16,22 @@ Me chamo <b> Hérika Ströngreen</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Congonhas/MG-BR.<br />
-Concluí o curso na @betrybe e iniciei a transição da minha carreira para a àrea de <b>Segurança da informação </b>. <br> 
-Atualmente estou fazendo o curso na @4linux de Pentest: Técnicas de Intrusão em Redes Corporativas 
+Faallaa Maker, meu nome é Hérika Ströngreen, tenho 28 anos, mas a carinha é de 20 💅.  😅<br />
+Sou Engenheira da Computação, trabalho como desenvolvedora backend na KaBuM! </b>. <br>
 </p>
+Faço parte de comunidades da área de segurança da informação e cultura maker.
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<br>
+Sou colunista do Mídia Ninja e palestrante em vários eventos de tecnologia, ando de longboarding e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
 <p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
+Produzo conteúdos de tecnologia para as plataformas:
 </p>
 <p align="left" >
 <ul>
-  <li>Youtube </li>
-  <li>Instagram </li>
+  <li><a href="https://youtube.com/herikastrongreen/"> Youtube </a></li>
+  <li><a href="https://instagram.com/strongreen/">Instagram </a></li>
   <li><a href="https://midianinja.org/author/herikastrongreen/">Midia Ninja </a> </li>
   <li><a href="https://pingback.com/strongreen">Ping Back</a></li>
 </ul>
@@ -41,6 +43,7 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
   <li> LatinoWare </li>
   <li> Portal Embarcados </li>
   <li> Programador real </li>
+  <li> Roadsec </li>
   </ul>
 </p>
 </p>
@@ -51,18 +54,18 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou concluindo o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack, utilizando as stacks:
+- 👩‍💻 Trabalhando na *@KaBuM!* como dev Full Stack, utilizando as stacks:
   - Perl
   - Python
   - Angular JS
   - Typescript
-  - ReactJS
-  - NodeJS
+  - NextJS
+  - NestJS
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking;
+  - Estudar sobre segurança;
   - Andar de Longboard; 
+  - Tocar Guitarra | Contra-baixo ( tô aprendendo); 
   - Gravar conteúdos;
   - Ler livros;
   - Jogar League of Legends;
