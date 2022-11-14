@@ -17,14 +17,16 @@ Me chamo <b> Hérika Ströngreen</b>.
 </a>
 <p align="left" >
 Faallaa Maker, meu nome é Hérika Ströngreen, tenho 28 anos, mas a carinha é de 20 💅.  😅<br />
-Sou Engenheira da Computação, trabalho como desenvolvedora backend na KaBuM! </b>. <br>
+Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
 </p>
+Sou pós-graduanda em IoT, Ethical Hacking e Cyber Security.
+<br/>
 Faço parte de comunidades da área de segurança da informação e cultura maker.
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
-Sou colunista do Mídia Ninja e palestrante em vários eventos de tecnologia, ando de longboarding e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
+Sou palestrante em vários eventos de tecnologia, ando de longboarding e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
 <p align="left" >
 Produzo conteúdos de tecnologia para as plataformas:
 </p>
@@ -32,8 +34,6 @@ Produzo conteúdos de tecnologia para as plataformas:
 <ul>
   <li><a href="https://youtube.com/herikastrongreen/"> Youtube </a></li>
   <li><a href="https://instagram.com/strongreen/">Instagram </a></li>
-  <li><a href="https://midianinja.org/author/herikastrongreen/">Midia Ninja </a> </li>
-  <li><a href="https://pingback.com/strongreen">Ping Back</a></li>
 </ul>
 </p>
 <p align="left" >
@@ -54,25 +54,35 @@ Produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Trabalhando na *@KaBuM!* como dev Full Stack, utilizando as stacks:
+- 👩‍💻 Experiências adquiridas trabalhando na *@Accenture* com Segurança da informação:
+  - AppSec
+  - Desenvolvimento seguro
+  - Produção de relatórios Técnicos
+  - Pentest
+  - Forense
+  
+  
+- 👩‍💻 Experiências adquiridas trabalhando na *@KaBuM!* como dev Full Stack, utilizando as stacks:
   - Perl
   - Python
   - Angular JS
   - Typescript
   - NextJS
   - NestJS
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+  
+  
 - 👾 Meus hobbies são: 
-  - Estudar sobre segurança;
-  - Andar de Longboard; 
+  - Estudar sobre segurança e IoT;
+  - Andar de Longboard;
+  - Massoterapia 
   - Tocar Guitarra | Contra-baixo ( tô aprendendo); 
   - Gravar conteúdos;
   - Ler livros;
   - Jogar League of Legends;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1LBaL8MXq1x99ZrrrTta2FDG0j--AIhvR/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
+- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
 </p>
@@ -107,8 +117,6 @@ Produzo conteúdos de tecnologia para as plataformas:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 <img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" />
 </p>
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
