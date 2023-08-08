@@ -26,7 +26,7 @@ Faço parte de comunidades da área de segurança da informação e cultura make
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
-Sou palestrante em vários eventos de tecnologia, ando de longboarding e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
+Sou palestrante em vários eventos de tecnologia, faço academia e estudo Hardware Hacking
 <p align="left" >
 Produzo conteúdos de tecnologia para as plataformas:
 </p>
@@ -75,12 +75,17 @@ Produzo conteúdos de tecnologia para as plataformas:
   
 - 👾 Meus hobbies são: 
   - Estudar sobre segurança e IoT;
+  - Viajar
   - Academia ( Musculação | Calistenia )
   - Andar de Longboard;
   - Massoterapia 
   - Tocar Guitarra | Contra-baixo ( tô aprendendo); 
   - Gravar conteúdos;
   - Ler livros;
+  - Hardware Hacking
+  - Lockpick
+  - Car Hacking
+  - IoT Security
   - Jogar League of Legends;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
