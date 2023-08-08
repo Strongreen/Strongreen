@@ -16,10 +16,10 @@ Me chamo <b> Hérika Ströngreen</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Faallaa Maker, meu nome é Hérika Ströngreen, tenho 28 anos, mas a carinha é de 20 💅.  😅<br />
+Faallaa Maker, meu nome é Hérika Ströngreen, tenho 29 anos, mas a carinha é de 20 💅.  😅<br />
 Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
 </p>
-Sou pós-graduanda em IoT, Ethical Hacking e Cyber Security.
+Sou pós-graduanda em IoT, Ethical Hacking & Cyber Security.
 <br/>
 Faço parte de comunidades da área de segurança da informação e cultura maker.
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
@@ -44,6 +44,8 @@ Produzo conteúdos de tecnologia para as plataformas:
   <li> Portal Embarcados </li>
   <li> Programador real </li>
   <li> Roadsec </li>
+  <li> Hacking na Web Day </li>
+  <li> Campus Party </li>
   </ul>
 </p>
 </p>
@@ -73,6 +75,7 @@ Produzo conteúdos de tecnologia para as plataformas:
   
 - 👾 Meus hobbies são: 
   - Estudar sobre segurança e IoT;
+  - Academia ( Musculação | Calistenia )
   - Andar de Longboard;
   - Massoterapia 
   - Tocar Guitarra | Contra-baixo ( tô aprendendo); 
