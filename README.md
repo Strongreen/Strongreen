@@ -46,6 +46,7 @@ Produzo conteúdos de tecnologia para as plataformas:
   <li> Roadsec </li>
   <li> Hacking na Web Day </li>
   <li> Campus Party </li>
+  <li> Bxsec </li>
   </ul>
 </p>
 </p>
