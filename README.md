@@ -1,134 +1,133 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center">Bem-vindo(a), Maker!</h1>
 <hr />
+
 <a href="https://github.com/strongreen" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
-<p align="left" > 
-  <b>Faaallaaa Makers!</b>
+</a>
+
+<p align="left">
+  <b>Faaallaaa Makers!</b> <br/>
+  Sou <b>Hérika Ströngreen</b>, Engenheira da Computação e pós graduada em IoT e Ethical Hacking & CyberSecurity
 </p>
+
 <a href="https://www.instagram.com/strongreen/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-Me chamo <b> Hérika Ströngreen</b>.
+</a>
+
+<p align="left">
+  Atualmente trabalho com Segurança da Informação na @Accenture e produzo conteúdos focados em tecnologia nas plataformas <a href="https://youtube.com/herikastrongreen/">YouTube</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.
 </p>
+
 <a href="https://www.youtube.com/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
-<p align="left" >
-Faallaa Maker, meu nome é Hérika Ströngreen, tenho 29 anos, mas a carinha é de 20 💅.  😅<br />
-Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
+
+<p align="left">
+  Sou palestrante em diversos eventos de tecnologia e faço parte de comunidades que respiram segurança da informação e cultura maker. Estudo Hardware Hacking, faço academia e estou sempre em busca de novos desafios e aprendizados!
 </p>
-Sou pós-graduanda em IoT, Ethical Hacking & Cyber Security.
-<br/>
-Faço parte de comunidades da área de segurança da informação e cultura maker.
+
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<br>
-Sou palestrante em vários eventos de tecnologia, faço academia e estudo Hardware Hacking
-<p align="left" >
-Produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
+
+<h2>🚀 Experiências Profissionais</h2>
 <ul>
-  <li><a href="https://youtube.com/herikastrongreen/"> Youtube </a></li>
-  <li><a href="https://instagram.com/strongreen/">Instagram </a></li>
+  <li><b>Accenture</b> - Segurança da Informação
+    <ul>
+      <li>AppSec</li>
+      <li>Desenvolvimento Seguro</li>
+      <li>Produção de Relatórios Técnicos</li>
+      <li>Pentest</li>
+      <li>Forense</li>
+    </ul>
+  </li>
+  <li><b>KaBuM!</b> - Dev Full Stack
+    <ul>
+      <li>Perl</li>
+      <li>Python</li>
+      <li>AngularJS</li>
+      <li>TypeScript</li>
+      <li>NextJS</li>
+      <li>NestJS</li>
+    </ul>
+  </li>
 </ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-  <li> Portal Embarcados </li>
-  <li> Programador real </li>
-  <li> Roadsec </li>
-  <li> Hacking na Web Day </li>
-  <li> Campus Party </li>
-  <li> Bxsec </li>
-  </ul>
-</p>
-</p>
 
-<hr />
+<h2>🎤 Palestras e Eventos</h2>
+<ul>
+  <li>Arduino Day</li>
+  <li>LatinoWare</li>
+  <li>Portal Embarcados</li>
+  <li>Programador Real</li>
+  <li>Roadsec</li>
+  <li>Hacking na Web Day</li>
+  <li>Campus Party</li>
+  <li>Bxsec</li>
+</ul>
 
-**Meus interesses pessoais:**
+<h2>👾 Hobbies & Interesses</h2>
+<ul>
+  <li>Segurança e IoT</li>
+  <li>Viajar</li>
+  <li>Academia (Musculação & Calistenia)</li>
+  <li>Andar de Longboard</li>
+  <li>Massoterapia</li>
+  <li>Tocar Guitarra & Contra-baixo</li>
+  <li>Gravar conteúdos</li>
+  <li>Ler livros</li>
+  <li>Hardware Hacking</li>
+  <li>Lockpicking</li>
+  <li>Car Hacking</li>
+  <li>IoT Security</li>
+  <li>Jogar League of Legends</li>
+</ul>
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
-
-- 👩‍💻 Experiências adquiridas trabalhando na *@Accenture* com Segurança da informação:
-  - AppSec
-  - Desenvolvimento seguro
-  - Produção de relatórios Técnicos
-  - Pentest
-  - Forense
-  
-  
-- 👩‍💻 Experiências adquiridas trabalhando na *@KaBuM!* como dev Full Stack, utilizando as stacks:
-  - Perl
-  - Python
-  - Angular JS
-  - Typescript
-  - NextJS
-  - NestJS
-  
-  
-- 👾 Meus hobbies são: 
-  - Estudar sobre segurança e IoT;
-  - Viajar
-  - Academia ( Musculação | Calistenia )
-  - Andar de Longboard;
-  - Massoterapia 
-  - Tocar Guitarra | Contra-baixo ( tô aprendendo); 
-  - Gravar conteúdos;
-  - Ler livros;
-  - Hardware Hacking
-  - Lockpick
-  - Car Hacking
-  - IoT Security
-  - Jogar League of Legends;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
-
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+<h2>📫 Contato</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  Fique à vontade para me chamar, ficarei muito feliz em poder ajudar!<br/>
+  📧 <a href="mailto:contato@strongreen.com">contato@strongreen.com</a>
 </p>
 
-**Linguagens e ferramentas:**  
+<h2>📊 Estatísticas</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
+</p>
+
+<h2>🛠️ Linguagens e Ferramentas</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="Jest" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="JQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="Perl" width="40" height="40"/>
+</p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="Jquery" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-<img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" />
 </p>
 
+<p align="center">
+  ⭐️ Baseado em <a href="https://github.com/CallmeMehdi">CallmeMehdi</a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+---
 
