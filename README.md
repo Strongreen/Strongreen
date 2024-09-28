@@ -7,7 +7,7 @@
 
 <p align="left">
   <b>Faaallaaa Makers!</b> <br/>
-  Sou <b>Hérika Ströngreen</b>, Engenheira da Computação e pós graduada em IoT e Ethical Hacking & CyberSecurity
+  Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação e pós graduadp em IoT e Ethical Hacking & CyberSecurity
 </p>
 
 <a href="https://www.instagram.com/strongreen/" target="_blank">
