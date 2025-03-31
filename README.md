@@ -22,7 +22,7 @@
 </a>
 
 <p align="left">
-  Atuo na <b>@Accenture</b> com Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/strongreen_/">YouTube</a>, <a href="https://linkedin.com/in/strongreen/">YouTube</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
+  Atuo na <b>@Accenture</b> com Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/strongreen_/">YouTube</a>, <a href="https://linkedin.com/in/strongreen/">LinkedIN_</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
 </p>
 
 <a href="https://www.youtube.com/strongreen/" target="_blank">
