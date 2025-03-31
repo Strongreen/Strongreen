@@ -13,8 +13,7 @@
 <p align="left">
   <b>Fala, Makers! 👋</b> <br/>
   Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity. <br/>
-  🔐 Especialista em Segurança da Informação, Pentest, Segurança para IoT e Hardware Hacking.  
-  💻 Atualmente em transição para Desenvolvimento de Software com foco em soluções seguras.  
+  🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos sólidos em desenvolvimento de software.  
   🌍 Meu objetivo é levar minha expertise para o cenário internacional – e a Alemanha é meu próximo destino!  
 </p>
 
@@ -23,10 +22,10 @@
 </a>
 
 <p align="left">
-  Atuo na <b>@Accenture</b> com AppSec, Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/herikastrongreen/">YouTube</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
+  Atuo na <b>@Accenture</b> com Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/strongreen_/">YouTube</a>, <a href="https://linkedin.com/in/strongreen/">YouTube</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
 </p>
 
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
+<a href="https://www.youtube.com/strongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
@@ -34,7 +33,7 @@
   🚀 Com uma forte base técnica e experiência prática, participo ativamente da comunidade de segurança, palestrando em eventos e contribuindo para a educação tecnológica.  
 </p>
 
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/strongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -42,12 +41,9 @@
 
 ## 💼 Experiência Profissional
 
-### 🔹 **Accenture** – Cybersecurity Specialist  
-- Application Security (AppSec)  
+### 🔹 **Accenture** – Cybersecurity Specialist    
 - Pentest & Ethical Hacking  
 - Secure Development Lifecycle (SDLC)  
-- Forensic Analysis  
-- Threat Modeling & Risk Assessment  
 
 ### 🔹 **KaBuM!** – Full Stack Developer  
 - Backend & Frontend: **Perl, Python, AngularJS, TypeScript, Next.js, NestJS**  
@@ -90,15 +86,15 @@
 - Lockpicking & Car Hacking  
 
 ### **🔹 Atividades Físicas & Lazer**
-- Academia (Musculação & Calistenia)  
+- Academia (Musculação)
 - Longboard  
 - Massoterapia  
 
 ### **🔹 Outros**
 - Criar conteúdo educativo  
-- Ler livros técnicos & Sci-fi  
-- Tocar Guitarra & Contra-baixo  
-- Jogar League of Legends  
+- Ler livros técnicos 
+- Tocar Guitarra & Contra-baixo
+- Passeios com cachorro
 
 ---
 
