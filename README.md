@@ -101,7 +101,7 @@
 ## 📫 Contato
 
 💬 Quer bater um papo sobre tecnologia ou segurança? Me chama!  
-📧 **Email:** [contato@strongreen.com](mailto:contato@strongreen.com)  
+📧 **Email:** [hendrick@strongreen.com](mailto:hendrick@strongreen.com)  
 📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
 
 ---
