@@ -6,44 +6,39 @@
 
 <hr />
 
+<p align="left">
+  <b>Fala, Makers! 👋</b> 
+ <pre>   Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity.
+   🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos sólidos em desenvolvimento de software.  
+   🌍 Meu objetivo é levar minha expertise para o cenários internacionais e a Alemanha é meu próximo destino!</pre>
+</p>
 <a href="https://github.com/strongreen" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
-
-<p align="left">
-  <b>Fala, Makers! 👋</b> <br/>
-  Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity. <br/>
-  🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos sólidos em desenvolvimento de software.  
-  🌍 Meu objetivo é levar minha expertise para o cenário internacional – e a Alemanha é meu próximo destino!  
-</p>
-
 <a href="https://www.instagram.com/strongreen/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
-
-<p align="left">
-  Atuo na <b>@Accenture</b> com Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/strongreen_/">YouTube</a>, <a href="https://linkedin.com/in/strongreen/">LinkedIN_</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
-</p>
-
+<a  href="https://www.linkedin.com/in/strongreen/" target="_blank">
+  <img align="right"  src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 <a href="https://www.youtube.com/strongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
 <p align="left">
-  🚀 Com uma forte base técnica e experiência prática, participo ativamente da comunidade de segurança, palestrando em eventos e contribuindo para a educação tecnológica.  
+  Atuo na <b>@AccentureBrasil</b> como Pentester. Além disso, sou criador de conteúdo no  
 </p>
 
-<a href="https://www.linkedin.com/in/strongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+<p align="left">
+  🚀 Participo de comunidades de segurança, palestrando em eventos e contribuindo para formar futuros profissionais em Cybersecurity.
+</p>
 
 ---
-
 ## 💼 Experiência Profissional
 
 ### 🔹 **Accenture** – Cybersecurity Specialist    
 - Pentest & Ethical Hacking  
-- Secure Development Lifecycle (SDLC)  
+- Secure Development Lifecycle 
 
 ### 🔹 **KaBuM!** – Full Stack Developer  
 - Backend & Frontend: **Perl, Python, AngularJS, TypeScript, Next.js, NestJS**  
@@ -53,12 +48,14 @@
 
 ## 🎤 Palestras & Eventos
 
-- **Arduino Day** – IoT & Embedded Security  
-- **LatinoWare** – Ethical Hacking & Cybersecurity  
-- **Portal Embarcados** – Hardware Hacking  
-- **Roadsec** – Segurança para IoT e Pentest  
-- **Campus Party** – Cultura Maker & Cybersecurity  
-- **Bxsec | Hacking na Web Day** – Offensive Security  
+- **Arduino Day**
+- **LatinoWare**
+- **Portal Embarcados**
+- **Roadsec** 
+- **Campus Party** 
+- **Bxsec**
+- **Hacking na Web Day**
+- **BSides** 
 
 ---
 
@@ -71,7 +68,7 @@
 - Cloud Security: AWS, Azure  
 
 ### **🔹 Desenvolvimento**
-- **Languages:** Python, TypeScript, JavaScript, Perl, C  
+- **Languages:** Python, TypeScript, JavaScript, Perl, C, C++  
 - **Frontend:** React, Angular, Next.js  
 - **Backend:** Node.js, Express, NestJS, Django  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
@@ -85,16 +82,18 @@
 - IoT Security, Hardware Hacking  
 - Lockpicking & Car Hacking  
 
-### **🔹 Atividades Físicas & Lazer**
-- Academia (Musculação)
+### **🔹 Atividades Físicas**
+- Academia
 - Longboard  
-- Massoterapia  
+- Surfe
+- Kung Fu
+- Jiu Jitsu
 
 ### **🔹 Outros**
-- Criar conteúdo educativo  
-- Ler livros técnicos 
+- Criar conteúdo  
+- Ler livros  
 - Tocar Guitarra & Contra-baixo
-- Passeios com cachorro
+- Adestramento do Zephyr
 
 ---
 
@@ -102,7 +101,7 @@
 
 💬 Quer bater um papo sobre tecnologia ou segurança? Me chama!  
 📧 **Email:** [hendrick@strongreen.com](mailto:hendrick@strongreen.com)  
-📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
+📍 Localizado em Santo/SP - Brasil e aberto a oportunidades internacionais, principalmente Alemanha 🌍  
 
 ---
 
