@@ -105,12 +105,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
+![GitHub followers](https://img.shields.io/github/followers/strongreen?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/strongreen?label=Stars&style=flat)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
+
+### 🎯 TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/strongreen.png)](https://tryhackme.com/p/strongreen)
 
 ---
 
