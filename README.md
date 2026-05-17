@@ -8,9 +8,11 @@
 
 <p align="left">
   <b>Fala, Makers! 👋</b> 
- <pre>   Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity.
-   🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos sólidos em desenvolvimento de software.  
-   🌍 Meu objetivo é levar minha expertise para o cenários internacionais e a Alemanha é meu próximo destino!</pre>
+  <pre>
+   Sou o <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity.
+   🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos em desenvolvimento de software.  
+   🌍 Meu objetivo é levar minha expertise para o cenários internacionais e a Alemanha é meu próximo destino!
+  </pre>
 </p>
 <a href="https://github.com/strongreen" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -21,12 +23,12 @@
 <a  href="https://www.linkedin.com/in/strongreen/" target="_blank">
   <img align="right"  src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a href="https://www.youtube.com/strongreen/" target="_blank">
+<a href="https://www.youtube.com/@hstrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
 <p align="left">
-  Atuo na <b>@AccentureBrasil</b> como Pentester. Além disso, sou criador de conteúdo no  
+  Atuo na <b>@AccentureBrasil</b> como Pentester. Além disso, sou criador de conteúdo nas plataformas:  
 </p>
 
 <p align="left">
@@ -48,14 +50,15 @@
 
 ## 🎤 Palestras & Eventos
 
-- **Arduino Day**
-- **LatinoWare**
-- **Portal Embarcados**
-- **Roadsec** 
-- **Campus Party** 
-- **Bxsec**
-- **Hacking na Web Day**
-- **BSides** 
+- Arduino Day
+- LatinoWare
+- Portal Embarcados
+- Roadsec
+- Campus Party 
+- Bxsec
+- Hacking na Web Day
+- BSides
+- Escolas técnicas e faculdades
 
 ---
 
@@ -65,7 +68,7 @@
 - Offensive Security: Kali Linux, Metasploit, Burp Suite, Nmap  
 - AppSec: Secure Development, OWASP, SAST & DAST  
 - IoT Security: Hardware Hacking, Car Hacking, Lockpicking  
-- Cloud Security: AWS, Azure  
+- Cloud Security: AWS, Azure, Google Cloud Platform (GCP)
 
 ### **🔹 Desenvolvimento**
 - **Languages:** Python, TypeScript, JavaScript, Perl, C, C++  
@@ -92,7 +95,8 @@
 ### **🔹 Outros**
 - Criar conteúdo  
 - Ler livros  
-- Tocar Guitarra & Contra-baixo
+- Praia
+- Joga LoL ou PS5
 - Adestramento do Zephyr
 
 ---
@@ -100,19 +104,26 @@
 ## 📫 Contato
 
 💬 Quer bater um papo sobre tecnologia ou segurança? Me chama!  
-📧 **Email:** [hendrick@strongreen.com](mailto:hendrick@strongreen.com)  
-📍 Localizado em Santo/SP - Brasil e aberto a oportunidades internacionais, principalmente Alemanha 🌍  
+📧 **Email:** [contato@strongreen.com](mailto:contato@strongreen.com)  
+📍 Localizado em Santos/SP - Brasil e aberto a oportunidades internacionais, principalmente Alemanha 🌍  
 
 ---
 
 ## 📊 GitHub Stats 
 ![GitHub followers](https://img.shields.io/github/followers/strongreen?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/strongreen?label=Stars&style=flat)
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=strongreen&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=tokyonight"/>
 
-### 🎯 TryHackMe
+</div>
+
+### 🎯 Badges 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/strongreen.png)](https://tryhackme.com/p/strongreen)
+[![Hack The Box](https://www.hackthebox.com/badge/image/2063291)](https://app.hackthebox.com/profile/2063291)
+[![Google Cybersecurity Professional](https://images.credly.com/size/80x80/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/2ebb40c8-b02f-4983-a34d-9d8f4a7906c0/public_url)
+[![Google Network Security](https://images.credly.com/size/90x90/images/9d06e635-f89c-4c75-9e1a-bbbf9f7cf61d/blob)](https://www.credly.com/badges/d6b87140-66bb-47dd-b1ba-71c78b87d93e/public_url)
 
 ---
 
