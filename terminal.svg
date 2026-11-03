@@ -35,15 +35,15 @@
   <text class="l" x="36" y="222" style="animation-delay:1.2s"><tspan class="k">especialidade</tspan><tspan class="v" x="232">= IoT Security · Hardware Hacking</tspan></text>
   <text class="l" x="36" y="247" style="animation-delay:1.35s"><tspan class="k">background</tspan><tspan class="v" x="232">= Dev Full Stack (sim, eu também escrevo o código que depois quebro)</tspan></text>
   <text class="l" x="36" y="272" style="animation-delay:1.5s"><tspan class="k">base</tspan><tspan class="v" x="232">= Santos/SP, Brasil</tspan></text>
-  <text class="l" x="36" y="297" style="animation-delay:1.65s"><tspan class="k">comunidade</tspan><tspan class="v" x="232">= palestras em eventos, escolas técnicas e faculdades</tspan></text>
+  <text class="l" x="36" y="297" style="animation-delay:1.65s"><tspan class="k">comunidade</tspan><tspan class="v" x="232">= palestras em eventos, incentivar futuros profissionais da área e fazer amigos</tspan></text>
   <text class="l" x="36" y="322" style="animation-delay:1.8s"><tspan class="k">próximo_destino</tspan><tspan class="v" x="232">= Alemanha</tspan></text>
 
   <!-- start -->
   <text class="l" x="36" y="372" style="animation-delay:2.1s"><tspan class="pr">hendrick@strongreen:~$</tspan><tspan class="cmd" dx="8">./start --mode=maker</tspan></text>
   <text class="l" x="36" y="397" style="animation-delay:2.4s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">código compilado e gravado na placa</tspan></text>
   <text class="l" x="36" y="422" style="animation-delay:2.6s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">sensor lendo dados e mandando pra nuvem</tspan></text>
-  <text class="l" x="36" y="447" style="animation-delay:2.8s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">GreenPass: cartão NFC aprovado no totem</tspan></text>
-  <text class="l" x="36" y="472" style="animation-delay:3.0s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">Greengeld: extrato importado e categorizado</tspan></text>
+  <text class="l" x="36" y="447" style="animation-delay:2.8s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">sites e sistemas sob medida, do desenho à entrega</tspan></text>
+  <text class="l" x="36" y="472" style="animation-delay:3.0s"><tspan class="ok">[ok]</tspan><tspan class="v" dx="8">Greengeld: vida financeira organizada</tspan></text>
 
   <!-- prompt final com cursor piscando -->
   <g class="l" style="animation-delay:3.4s">
