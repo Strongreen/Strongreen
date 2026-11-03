@@ -1,132 +1,193 @@
-<h1 align="center">Bem-vindo(a), Maker! 🚀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBAD18,100:0D1117&height=220&section=header&text=Hendrick%20Str%C3%B6ngreen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Maker%20%7C%20Pentester%20%7C%20Hardware%20Hacker&descSize=18&descAlignY=58" width="100%" alt="Banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Visualizações do perfil" />
-</p>
-
-<hr />
-
-<p align="left">
-  <b>Fala, Makers! 👋</b> 
-  <pre>
-   Sou o <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity.
-   🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos em desenvolvimento de software.  
-   🌍 Meu objetivo é levar minha expertise para o cenários internacionais e a Alemanha é meu próximo destino!
-  </pre>
-</p>
-<a href="https://github.com/strongreen" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
-<a  href="https://www.linkedin.com/in/strongreen/" target="_blank">
-  <img align="right"  src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://www.youtube.com/@hstrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
-
-<p align="left">
-  Atuo na <b>@AccentureBrasil</b> como Pentester. Além disso, sou criador de conteúdo nas plataformas:  
-</p>
-
-<p align="left">
-  🚀 Participo de comunidades de segurança, palestrando em eventos e contribuindo para formar futuros profissionais em Cybersecurity.
-</p>
-
----
-## 💼 Experiência Profissional
-
-### 🔹 **Accenture** – Cybersecurity Specialist    
-- Pentest & Ethical Hacking  
-- Secure Development Lifecycle 
-
-### 🔹 **KaBuM!** – Full Stack Developer  
-- Backend & Frontend: **Perl, Python, AngularJS, TypeScript, Next.js, NestJS**  
-- Secure Coding Practices  
-
----
-
-## 🎤 Palestras & Eventos
-
-- Arduino Day
-- LatinoWare
-- Portal Embarcados
-- Roadsec
-- Campus Party 
-- Bxsec
-- Hacking na Web Day
-- BSides
-- Escolas técnicas e faculdades
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-### **🔹 Segurança & Pentest**
-- Offensive Security: Kali Linux, Metasploit, Burp Suite, Nmap  
-- AppSec: Secure Development, OWASP, SAST & DAST  
-- IoT Security: Hardware Hacking, Car Hacking, Lockpicking  
-- Cloud Security: AWS, Azure, Google Cloud Platform (GCP)
-
-### **🔹 Desenvolvimento**
-- **Languages:** Python, TypeScript, JavaScript, Perl, C, C++  
-- **Frontend:** React, Angular, Next.js  
-- **Backend:** Node.js, Express, NestJS, Django  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Infra:** Docker, Linux, Git, CI/CD  
-
----
-
-## 🎯 Hobbies & Interesses
-
-### **🔹 Cybersecurity & Hacking**
-- IoT Security, Hardware Hacking  
-- Lockpicking & Car Hacking  
-
-### **🔹 Atividades Físicas**
-- Academia
-- Longboard  
-- Surfe
-- Kung Fu
-- Jiu Jitsu
-
-### **🔹 Outros**
-- Criar conteúdo  
-- Ler livros  
-- Praia
-- Joga LoL ou PS5
-- Adestramento do Zephyr
-
----
-
-## 📫 Contato
-
-💬 Quer bater um papo sobre tecnologia ou segurança? Me chama!  
-📧 **Email:** [contato@strongreen.com](mailto:contato@strongreen.com)  
-📍 Localizado em Santos/SP - Brasil e aberto a oportunidades internacionais, principalmente Alemanha 🌍  
-
----
-
-## 📊 GitHub Stats 
-![GitHub followers](https://img.shields.io/github/followers/strongreen?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/strongreen?label=Stars&style=flat)
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=strongreen&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/strongreen/strongreen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FBAD18&center=true&vCenter=true&width=650&lines=Faallaa+Maker+%E2%9A%A1;Pentester+%40+Accenture;IoT+Security+%26+Hardware+Hacking;Next+stop%3A+Germany+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=strongreen" alt="Visualizações do perfil" />
+
+<br /><br />
+
+<a href="https://www.strongreen.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_www.strongreen.com-ACESSE_MEU_SITE-FBAD18?style=for-the-badge&labelColor=0D1117" alt="Site pessoal" />
+</a>
+
+<br /><br />
+
+<p align="center">
+<a href="https://github.com/strongreen" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px" alt="GitHub"></a> <a href="https://www.instagram.com/strongreen/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" alt="Instagram"></a> <a href="https://www.linkedin.com/in/strongreen/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px" alt="LinkedIn"></a> <a href="https://www.youtube.com/@strongreen_/" target="_blank"><img src="https://i.ibb.co/kSWhXVq/youtube.png" width="40px" height="40px" alt="YouTube"></a>
+</p>
 
 </div>
 
-### 🎯 Badges 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/strongreen.png)](https://tryhackme.com/p/strongreen)
-[![Hack The Box](https://www.hackthebox.com/badge/image/2063291)](https://app.hackthebox.com/profile/2063291)
-[![Google Cybersecurity Professional](https://images.credly.com/size/80x80/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/2ebb40c8-b02f-4983-a34d-9d8f4a7906c0/public_url)
-[![Google Network Security](https://images.credly.com/size/90x90/images/9d06e635-f89c-4c75-9e1a-bbbf9f7cf61d/blob)](https://www.credly.com/badges/d6b87140-66bb-47dd-b1ba-71c78b87d93e/public_url)
+<br />
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal com o perfil do Hendrick Ströngreen" width="100%" />
+</p>
 
 ---
 
-<p align="center">
-  ⭐️ Baseado em <a href="https://github.com/CallmeMehdi">CallmeMehdi</a>
-</p>
+## 🔥 Onde eu gosto de colocar a mão
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🔌 Hardware</h3>
+      <sub>UART, JTAG, firmware, análise de dispositivos IoT</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚗 Automotivo</h3>
+      <sub>Car Hacking e segurança de sistemas embarcados</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛠️ Maker</h3>
+      <sub>Arduino, ESP32, Raspberry Pi e NFC</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🕵️ Pentest</h3>
+      <sub>Web, mobile e hardware</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Arsenal
+
+<div align="center">
+
+**Ofensivo & Cloud**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,aws,azure,gcp,docker,git&theme=dark" alt="Segurança e infra" />
+
+`Metasploit` · `Burp Suite` · `Nmap` · `OWASP`
+
+<br />
+
+**Desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,perl,c,cpp,react,angular,nextjs,nodejs,express,nestjs,django&theme=dark" alt="Desenvolvimento" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Bancos de dados" />
+
+</div>
+
+---
+
+## 🛤️ Trajetória
+
+<div align="center">
+
+| 💻 **KaBuM!** | ➜ | 🛡️ **Accenture** | ➜ | ✈️ **Próximo capítulo** |
+|:---:|:---:|:---:|:---:|:---:|
+| Full Stack Developer<br><sub>Perl, Python, AngularJS, TypeScript, Next.js, NestJS</sub><br><sub>Secure Coding Practices</sub> | | Cybersecurity Specialist<br><sub>Pentest & Ethical Hacking</sub><br><sub>Secure Development Lifecycle</sub> | | Alemanha<br><sub>Levar a expertise para o cenário internacional</sub> |
+
+</div>
+
+---
+
+## 🎤 No palco
+
+<div align="center">
+
+![Arduino Day](https://img.shields.io/badge/Arduino_Day-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LatinoWare](https://img.shields.io/badge/LatinoWare-1f6feb?style=for-the-badge)
+![Portal Embarcados](https://img.shields.io/badge/Portal_Embarcados-0D1117?style=for-the-badge&labelColor=FBAD18)
+![Roadsec](https://img.shields.io/badge/Roadsec-d73a49?style=for-the-badge)
+![Campus Party](https://img.shields.io/badge/Campus_Party-6f42c1?style=for-the-badge)
+![Bxsec](https://img.shields.io/badge/Bxsec-0D1117?style=for-the-badge&labelColor=FBAD18)
+![Hacking na Web Day](https://img.shields.io/badge/Hacking_na_Web_Day-fb8500?style=for-the-badge)
+![BSides](https://img.shields.io/badge/BSides-2ea043?style=for-the-badge)
+![Escolas técnicas e faculdades](https://img.shields.io/badge/Escolas_técnicas_e_faculdades-30363d?style=for-the-badge)
+
+</div>
+
+---
+
+## 🏅 Certificações & Plataformas
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.credly.com/badges/2ebb40c8-b02f-4983-a34d-9d8f4a7906c0/public_url" target="_blank">
+        <img src="https://images.credly.com/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/linkedin_thumb_blob" height="110" alt="Google Cybersecurity Professional Certificate" />
+      </a>
+      <br /><br />
+      <sub><b>Google Cybersecurity<br />Professional</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.credly.com/badges/d6b87140-66bb-47dd-b1ba-71c78b87d93e/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/9d06e635-f89c-4c75-9e1a-bbbf9f7cf61d/blob" height="110" alt="Google Network Security" />
+      </a>
+      <br /><br />
+      <sub><b>Google<br />Network Security</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.credly.com/badges/98cd3360-216e-4c2d-b43b-5cf1bb86f599/public_url" target="_blank">
+        <img src="https://images.credly.com/images/772a2b31-1440-46a2-9c3c-96b8c05c5819/linkedin_thumb_blob" height="110" alt="Reinvention with Agentic AI" />
+      </a>
+      <br /><br />
+      <sub><b>Reinvention with<br />Agentic AI (Accenture)</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/strongreen.png)](https://tryhackme.com/p/strongreen)
+[![Hack The Box](https://www.hackthebox.com/badge/image/2063291)](https://app.hackthebox.com/profile/2063291)
+
+</div>
+
+---
+
+## 🎮 Fora do terminal
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>🥋 Corpo</h3><sub>Academia<br />Kung Fu</sub></td>
+    <td align="center" width="25%"><h3>🌊 Mar</h3><sub>Surfe<br />Longboard<br />Praia</sub></td>
+    <td align="center" width="25%"><h3>🔓 Lockpicking</h3><sub>Abrir fechaduras sem a chave<br />(com autorização, claro)</sub></td>
+    <td align="center" width="25%"><h3>🛠️ Bancada</h3><sub>Soldar<br />Prototipar<br />Impressão 3D</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><h3>🎥 Conteúdo</h3><sub>YouTube<br />Instagram<br />Palestras</sub></td>
+    <td align="center" width="25%"><h3>📚 Mente</h3><sub>Ler livros<br />Estudar o próximo desafio</sub></td>
+    <td align="center" width="25%"><h3>🎮 Games</h3><sub>LoL<br />PS5</sub></td>
+    <td align="center" width="25%"><h3>🐾 Zephyr</h3><sub>Adestramento<br />Companheiro oficial de bancada</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/strongreen?label=Followers&style=for-the-badge&color=FBAD18&labelColor=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/strongreen?label=Stars&style=for-the-badge&color=FBAD18&labelColor=0D1117)
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=strongreen&background=0D1117&ring=E5484D&fire=E5484D&currStreakLabel=E5484D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FBAD18&dates=8B949E&stroke=30363D&border=30363D&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Bora trocar uma ideia sobre tech ou segurança?
+
+📧 [contato@strongreen.com](mailto:contato@strongreen.com) &nbsp;|&nbsp; 🌐 [www.strongreen.com](https://www.strongreen.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FBAD18&height=120&section=footer" width="100%" alt="Footer" />
