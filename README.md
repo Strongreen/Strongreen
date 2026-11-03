@@ -32,7 +32,7 @@
 
 ---
 
-## 🔥 Onde eu gosto de colocar a mão
+## 🎯 Áreas de atuação
 
 <table align="center">
   <tr>
@@ -141,8 +141,7 @@
 
 <br />
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/strongreen.png)](https://tryhackme.com/p/strongreen)
-[![Hack The Box](https://www.hackthebox.com/badge/image/2063291)](https://app.hackthebox.com/profile/2063291)
+<a href="https://tryhackme.com/p/strongreen" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/strongreen.png" height="80" alt="TryHackMe" /></a> <a href="https://app.hackthebox.com/profile/2063291" target="_blank"><img src="https://www.hackthebox.com/badge/image/2063291" height="80" alt="Hack The Box" /></a>
 
 </div>
 
@@ -161,7 +160,7 @@
     <td align="center" width="25%"><h3>🎥 Conteúdo</h3><sub>YouTube<br />Instagram<br />Palestras</sub></td>
     <td align="center" width="25%"><h3>📚 Mente</h3><sub>Ler livros<br />Estudar o próximo desafio</sub></td>
     <td align="center" width="25%"><h3>🎮 Games</h3><sub>LoL<br />PS5</sub></td>
-    <td align="center" width="25%"><h3>🐾 Zephyr</h3><sub>Adestramento<br />Companheiro oficial de bancada</sub></td>
+    <td align="center" width="25%"><h3>🐾 Zephyr</h3><sub>Cão de assistência (autismo)<br />Adestramento com propósito</sub></td>
   </tr>
 </table>
 
