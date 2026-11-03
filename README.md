@@ -27,7 +27,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Terminal com o perfil do Hendrick Ströngreen" width="100%" />
+  <img src="/terminal.svg" alt="Terminal com o perfil do Hendrick Ströngreen" width="100%" />
 </p>
 
 ---
