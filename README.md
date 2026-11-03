@@ -141,7 +141,7 @@
 
 <br />
 
-<a href="https://tryhackme.com/p/strongreen" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/strongreen.png" height="80" alt="TryHackMe" /></a> <a href="https://app.hackthebox.com/profile/2063291" target="_blank"><img src="https://www.hackthebox.com/badge/image/2063291" height="80" alt="Hack The Box" /></a>
+<a href="https://tryhackme.com/p/strongreen" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/strongreen.png" width="280" height="70" alt="TryHackMe" /></a> <a href="https://app.hackthebox.com/profile/2063291" target="_blank"><img src="https://www.hackthebox.com/badge/image/2063291" width="280" height="70" alt="Hack The Box" /></a>
 
 </div>
 
