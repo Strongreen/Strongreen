@@ -34,26 +34,9 @@
 
 ## 🎯 Áreas de atuação
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🔌 Hardware</h3>
-      <sub>UART, JTAG, firmware, análise de dispositivos IoT</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🚗 Automotivo</h3>
-      <sub>Car Hacking e segurança de sistemas embarcados</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🛠️ Maker</h3>
-      <sub>Arduino, ESP32, Raspberry Pi e NFC</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🕵️ Pentest</h3>
-      <sub>Web, mobile e hardware</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/areas.svg" alt="Áreas de atuação: Hardware (UART, JTAG, firmware, análise de dispositivos IoT), Automotivo (Car Hacking e segurança de sistemas embarcados), Maker (Arduino, ESP32, Raspberry Pi e NFC) e Pentest (Web, mobile e hardware)" width="100%" />
+</p>
 
 ---
 
@@ -81,13 +64,13 @@
 
 ## 🛤️ Trajetória
 
-<div align="center">
-
-| 💻 **KaBuM!** | ➜ | 🛡️ **Accenture** | ➜ | ✈️ **Próximo capítulo** |
-|:---:|:---:|:---:|:---:|:---:|
-| Full Stack Developer<br><sub>Perl, Python, AngularJS, TypeScript, Next.js, NestJS</sub><br><sub>Secure Coding Practices</sub> | | Cybersecurity Specialist<br><sub>Pentest & Ethical Hacking</sub><br><sub>Secure Development Lifecycle</sub> | | Alemanha<br><sub>Levar a expertise para o cenário internacional</sub> |
-
-</div>
+```mermaid
+flowchart LR
+    A["💻 KaBuM!<br/>Full Stack Developer"] --> B["🛡️ Accenture<br/>Cybersecurity Specialist"] --> C["✈️ Alemanha<br/>Próximo capítulo"]
+    style A fill:#0D1117,stroke:#FBAD18,color:#ffffff
+    style B fill:#0D1117,stroke:#FBAD18,color:#ffffff
+    style C fill:#0D1117,stroke:#FBAD18,stroke-dasharray: 5 5,color:#ffffff
+```
 
 ---
 
@@ -113,31 +96,7 @@
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <a href="https://www.credly.com/badges/2ebb40c8-b02f-4983-a34d-9d8f4a7906c0/public_url" target="_blank">
-        <img src="https://images.credly.com/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/linkedin_thumb_blob" height="110" alt="Google Cybersecurity Professional Certificate" />
-      </a>
-      <br /><br />
-      <sub><b>Google Cybersecurity<br />Professional</b></sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.credly.com/badges/d6b87140-66bb-47dd-b1ba-71c78b87d93e/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/9d06e635-f89c-4c75-9e1a-bbbf9f7cf61d/blob" height="110" alt="Google Network Security" />
-      </a>
-      <br /><br />
-      <sub><b>Google<br />Network Security</b></sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.credly.com/badges/98cd3360-216e-4c2d-b43b-5cf1bb86f599/public_url" target="_blank">
-        <img src="https://images.credly.com/images/772a2b31-1440-46a2-9c3c-96b8c05c5819/linkedin_thumb_blob" height="110" alt="Reinvention with Agentic AI" />
-      </a>
-      <br /><br />
-      <sub><b>Reinvention with<br />Agentic AI (Accenture)</b></sub>
-    </td>
-  </tr>
-</table>
+<a href="https://www.credly.com/badges/2ebb40c8-b02f-4983-a34d-9d8f4a7906c0/public_url" target="_blank"><img src="https://images.credly.com/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/linkedin_thumb_blob" height="110" alt="Google Cybersecurity Professional Certificate" /></a> <a href="https://www.credly.com/badges/d6b87140-66bb-47dd-b1ba-71c78b87d93e/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/9d06e635-f89c-4c75-9e1a-bbbf9f7cf61d/blob" height="110" alt="Google Network Security" /></a> <a href="https://www.credly.com/badges/98cd3360-216e-4c2d-b43b-5cf1bb86f599/public_url" target="_blank"><img src="https://images.credly.com/images/772a2b31-1440-46a2-9c3c-96b8c05c5819/linkedin_thumb_blob" height="110" alt="Reinvention with Agentic AI" /></a>
 
 <br />
 
@@ -149,20 +108,9 @@
 
 ## 🎮 Fora do terminal
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>🥋 Corpo</h3><sub>Academia<br />Kung Fu</sub></td>
-    <td align="center" width="25%"><h3>🌊 Mar</h3><sub>Surfe<br />Longboard<br />Praia</sub></td>
-    <td align="center" width="25%"><h3>🔓 Lockpicking</h3><sub>Abrir fechaduras sem a chave<br />(com autorização, claro)</sub></td>
-    <td align="center" width="25%"><h3>🛠️ Bancada</h3><sub>Soldar<br />Prototipar<br />Impressão 3D</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><h3>🎥 Conteúdo</h3><sub>YouTube<br />Instagram<br />Palestras</sub></td>
-    <td align="center" width="25%"><h3>📚 Mente</h3><sub>Ler livros<br />Estudar o próximo desafio</sub></td>
-    <td align="center" width="25%"><h3>🎮 Games</h3><sub>LoL<br />PS5</sub></td>
-    <td align="center" width="25%"><h3>🐾 Zephyr</h3><sub>Cão de assistência (autismo)<br />Adestramento com propósito</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/orbita.svg" alt="Fora do terminal: Zephyr, cão de assistência (autismo) em adestramento, no centro. Ao redor: Corpo (Academia, Kung Fu), Mar (Surfe, Longboard, Praia), Lockpicking, Bancada (Soldar, Prototipar, Impressão 3D), Conteúdo (YouTube, Instagram, Palestras), Mente (Livros) e Games (LoL, PS5)" width="100%" />
+</p>
 
 ---
 
