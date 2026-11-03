@@ -35,7 +35,7 @@
 ## 🎯 Áreas de atuação
 
 <p align="center">
-  <img src="/areas.svg" alt="Áreas de atuação: Hardware (UART, JTAG, firmware, análise de dispositivos IoT), Automotivo (Car Hacking e segurança de sistemas embarcados), Maker (Arduino, ESP32, Raspberry Pi e NFC) e Pentest (Web, mobile e hardware)" width="100%" />
+  <img src="/areas.svg" alt="Áreas de atuação: Full Stack Web (sistemas, sites, APIs e plataformas de relatórios e gestão de equipe), Pentest (web, mobile e plugins para Burp Suite), Hardware (desmontar, identificar e remontar) e Maker (NodeMCU, NFC, Wi-Fi, rádio e SBCs com Kali Linux)" width="100%" />
 </p>
 
 ---
@@ -64,13 +64,9 @@
 
 ## 🛤️ Trajetória
 
-```mermaid
-flowchart LR
-    A["💻 KaBuM!<br/>Full Stack Developer"] --> B["🛡️ Accenture<br/>Cybersecurity Specialist"] --> C["✈️ Alemanha<br/>Próximo capítulo"]
-    style A fill:#0D1117,stroke:#FBAD18,color:#ffffff
-    style B fill:#0D1117,stroke:#FBAD18,color:#ffffff
-    style C fill:#0D1117,stroke:#FBAD18,stroke-dasharray: 5 5,color:#ffffff
-```
+<p align="center">
+  <img src="/trajetoria.svg" alt="Trajetória: loja de manutenção (5 anos, cofundador), eNotas (cerca de 3 anos), KaBuM! (2 anos), Accenture (atual) e Alemanha (próximo passo). Experiência na prática: Hardware 5 anos, Programação 5 anos, Segurança 4 anos." width="100%" />
+</p>
 
 ---
 
@@ -109,7 +105,7 @@ flowchart LR
 ## 🎮 Fora do terminal
 
 <p align="center">
-  <img src="/orbita.svg" alt="Fora do terminal: Zephyr, cão de assistência (autismo) em adestramento, no centro. Ao redor: Corpo (Academia, Kung Fu), Mar (Surfe, Longboard, Praia), Lockpicking, Bancada (Soldar, Prototipar, Impressão 3D), Conteúdo (YouTube, Instagram, Palestras), Mente (Livros) e Games (LoL, PS5)" width="100%" />
+  <img src="/orbita.svg" alt="Fora do terminal: Corpo (Academia, Kung Fu), Mar (Surfe, Longboard, Praia), Lockpicking, Bancada (Soldar, Prototipar, Impressão 3D), Conteúdo (YouTube, Instagram, Palestras), Mente (Livros), Games (LoL, PS5) e Zephyr (cão de assistência em treino)" width="100%" />
 </p>
 
 ---
